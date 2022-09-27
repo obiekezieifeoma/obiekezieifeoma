@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @obiekezieifeoma
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning UI UX design
-- 💞️ I’m looking to collaborate on alx SE
+- 👀 I’m interested in Tech.
+- 🌱 I’m currently learning Web development 
 - 📫 How to reach me +2348139473479
 
 <!---
